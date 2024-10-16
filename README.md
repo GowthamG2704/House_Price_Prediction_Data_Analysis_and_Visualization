@@ -71,6 +71,8 @@ The project’s insights were visualized using **Tableau**. Key charts created f
 4. **Line Chart**: Tracking price trends over time based on the house's age, providing a view of how house value changes as it ages.
 5. **Box Plot**: Displaying price distribution across different house sizes and neighborhoods to identify any outliers or anomalies in pricing.
 
+   **Tableau Dashboard Link** : https://public.tableau.com/app/profile/gowtham.g8004/viz/HousePricePrediction_17290590233840/Dashboard2#1
+
 ---
 
 ## Key Insights
